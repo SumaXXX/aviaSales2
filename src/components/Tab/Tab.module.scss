@@ -1,0 +1,19 @@
+.filter-button {
+  width: 168px;
+  height: 50px;
+  background-color: #ffffff;
+  border: 1px #dfe5ec solid;
+  border-right: none;
+  border-radius: 7px;
+  cursor: pointer;
+}
+
+.filter-button-selected {
+    color: #ffffff;
+    background-color: #2196F3;
+
+  }
+
+.filter-button--last {
+  border-right: 1px #dfe5ec solid;
+}
